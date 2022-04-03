@@ -1,0 +1,13 @@
+const String splash = '/splash';
+const String picklist = '/picklist';
+const String boxdetails = '/boxdetails';
+const String orderdetails = "/orderdetails";
+const String bottomnav = '/bottomnav';
+const String location = '/location';
+const String verifyEmail = '/verifyEmail';
+const String signup = '/signup';
+const String packorder = '/packorder';
+const String summary = '/summary';
+const String addItem = '/additem';
+const String delegateSendRequest = '/delegatesend';
+const String delegateReceiveRequest = '/delegaterequest';
